@@ -1,0 +1,36 @@
+# Leetcode-Swift
+Leetcode easy level codes written in Swift 4 with optimisation keeping in mind
+
+
+##Codes
+
+###1. TARGET SUM - 396
+###2. REVERSE NUMBER - 7
+###3. ROMAN TO INTEGER - 204
+###4. VALID PARENTHESIS - 20
+###5. REMOVE DUPLICATE FROM SORTED LIST - 189
+###6. REMOVE DUPLICATE FROM SORTED LIST - 189 (Swap Index Concept - more optimsied)
+###7. Haysack and needle problem
+###8. SQUARE ROOT OF X - 69
+###9. RETURN NUMBER OF 1'S BITS - 191
+###10. Reverse Bits - 151
+###11. COUNT PRIMES - 204
+###12. REVERSE STRING
+###13. VALID PALINDROME STRING - 125
+###14. MISSING NUMBER - 268
+###15. FIZZBUZZ - 412
+###16. SUM OT TWO INTEGERS - 371
+###17. SINGLE NUMBER - 136
+###18. CONTAINS DUPLICATE - ARRAY - 217
+###19. DETERMINE IF NUMBER IS POWER OF THREE OR NOT
+###20. POWER OF TWO OR NOT
+###21. MERGE SORTED ARRAYS - 88
+###22. VALID ANAGRAM OR NOT - 242
+###23. MOVE ZEROES - 283
+###24. LONGEST COMMON PREFIX - 14
+###25. PLUS ONE - 66
+###26. MAJORITY ELEMENT - 169
+###27. FACTORIAL TRAILING ZEROES - 172
+###28. MAXIMUM SUBARRAY - 53
+
+##Any comments or suggestions are most welcome.
